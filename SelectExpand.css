@@ -1,0 +1,13 @@
+.SelectExpand_i{
+	padding:0;
+	margin:0;
+}
+
+.SelectExpand_s{
+	position:absolute;
+	margin:0;
+	padding:0;
+	border:1px solid #CCC;
+	border-top:0;
+
+}
